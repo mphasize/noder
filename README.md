@@ -3,7 +3,10 @@ noder
 
 Tiny tool to transform Freemind mindmap files into Dendrograms and from there to SVG.
 
+![Screenshot](http://neotoxic.de/noder/img/cover.jpg)
+
 Inspired by @ACevenini, who did this the first time in the hard, manual way.
+
 You can use [WikiMindMap](https://github.com/nyfelix/wikimindmap) to automatically create the mindmap from connected wiki articles.
 
 Dendrogram code by @mbostock from D3.js examples [here](http://bl.ocks.org/mbostock/4063570) and [here](http://bl.ocks.org/mbostock/4063550).
