@@ -12,8 +12,8 @@ Thanks!
 
 ### Usage
 
-1) Open the `index.html` file in a  (modern) browser.
-2) Drag a Freemind map file (.mm) into the noder browser window.
+1. Open the `index.html` file in a  (modern) browser.
+2. Drag a Freemind map file (.mm) into the noder browser window.
 
 At this point the map should already render in your browser and you can adjust sizing as needed.
 When you're happy with the result, just `Download as SVG`. You can do some "post-production" in Illustrator or other software that can open SVGs.
